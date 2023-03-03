@@ -10,7 +10,7 @@ This 3-course Specialization is an updated version of Andrew’s pioneering Mach
 It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
 
 By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
-##Applied Learning Project
+## Applied Learning Project
  Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
 
 • Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
